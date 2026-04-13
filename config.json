@@ -6,7 +6,7 @@
     "listen": "::",
     "listen_port": 8080,
     "users": [{ "uuid": "af6622b2-a717-45ca-b1a9-fe070163ede6" }],
-    "transport": { "type": "ws", "path": "/chat" }
+    "transport": { "type": "ws", "path": "/info" }
   }],
   "outbounds": [{ "type": "direct", "tag": "direct" }]
 }
